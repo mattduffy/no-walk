@@ -1,0 +1,19 @@
+{
+  "name": "@mattduffy/koa-walk",
+  "version": "1.0.0",
+  "description": "Map out a walk.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattduffy/koa-walk.git"
+  },
+  "author": "Matthew Duffy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattduffy/koa-walk/issues"
+  },
+  "homepage": "https://github.com/mattduffy/koa-walk#readme"
+}
